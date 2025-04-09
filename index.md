@@ -1,20 +1,18 @@
 ---
 layout: default
-title: Pavel Filatov
 ---
 
 # 👋 Hi, I'm Pavel Filatov
 
-**Senior Data Engineer**  
-Build data systems and improve Daily Work
+I'm a Senior Data Engineer. 
+I build data systems, simplify processes, and improve Daily Work. 
 
 ---
 
-- 📝 [Read my Substack](#substack-link)
-- 💼 [Connect on LinkedIn](#linkedin-link)
-- 💻 [GitHub](#github-link)
-- 📫 [Email me](mailto:#your-email)
+- 📝 Check my Substack:
+  - [FlatMap](https://www.flatmap.blog/), where I capture what I wish I had known when just started my career.
+  - [Could Fill Book](https://couldfillbooks.substack.com/), where I gather the most important lessons from books I read.
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/p-filatov/)
+- 💻 [GitHub](https://github.com/pavel-filatov/)
+- 📫 [Email me](mailto:hello@pavelfilatov.net)
 
----
-
-Thanks for stopping by! More updates and writing soon.
