@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: base
 ---
 
 # 👋 Hi, I'm Pavel
