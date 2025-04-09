@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: home
 ---
 
-# 👋 Hi, I'm Pavel Filatov
+# 👋 Hi, I'm Pavel
 
 I'm a Senior Data Engineer. 
-I build data systems, simplify processes, and improve Daily Work. 
+I build and simplify data systems and improve Daily Work. 
 
 ---
 
