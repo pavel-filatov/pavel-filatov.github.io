@@ -1,0 +1,18 @@
+# Ignore IDE files
+.idea/
+
+# Ignore build artifacts and local config
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore dependency files
+vendor/
+
+# Ignore Mac system files (just in case)
+.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
